@@ -1,27 +1,24 @@
-# RecetaObjetos
+# 🍽️ Angular Recipe Manager
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5.
+This is a simple web application built with Angular and Bootstrap to manage a collection of recipes. The project implements a **frontend-only CRUD system**, handling data through components and interfaces, without any database or backend service.
 
-## Development server
+## 🚀 Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Angular SPA (Single Page Application)
+- Bootstrap-styled interface
+- List of predefined recipes
+- Add, edit, and delete recipes (frontend only)
+- Image support for each recipe (local files)
 
-## Code scaffolding
+## 🛠️ Tech Stack
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular 18
+- HTML / CSS / TypeScript
+- Bootstrap
 
-## Build
+## 📸 Screenshots
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+<p align="center">
+  <img src="screenshots/screenshot.png" alt="Preview" width="600"/>
+  <img src="screenshots/screenshot2.png" alt="Preview" width="600"/>
+</p>
